@@ -12,5 +12,12 @@ background-color:pink;
 color:aliceblue;
 font-size: 100% ;
 
+}
+
+a{
+width: 10px;
+height: 10px;
+background-color: lightcyan;
+border-radius: 5px;
 
 }
