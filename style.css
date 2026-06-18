@@ -1,15 +1,16 @@
 img{
 
 width: 300px;
-
-
+padding: 10px;
+margin: 10px;
+background-color: white;
 }
 
 body{
     
 background-color:pink;
 color:aliceblue;
-font-size: 80% ;
+font-size: 100% ;
 
 
 }
