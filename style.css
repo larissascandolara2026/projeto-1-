@@ -9,7 +9,7 @@ background-color: white;
 body{
     
 background-color:pink;
-color:aliceblue;
+color:rgb(0, 0, 0);
 font-size: 100% ;
 
 }
@@ -21,7 +21,9 @@ background-color: lightcyan;
 border-radius: 5px;
 
 
+}
 
-
-
+.primeiro_paragrafo{
+    border: 2px solid black;
+    border-radius: 5px;
 }
